@@ -1,9 +1,9 @@
 "use strict"
 
 //display a simple message outside a function, THis a text outside
- function Newmessage(THisisatextinsideafunctionblock) { 
+ function Newmessage(text) { 
     //display teemessage in a console
-    return block.tofixed(THisisatextinsideafunctionblock)
+    return block.tofixed("THisisatextinsideafunctionblock")
 
     
  };
